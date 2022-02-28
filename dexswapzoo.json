@@ -2790,6 +2790,22 @@
             "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_rCELO.png"
         },
         {
+            "name": "Celo",
+            "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+            "symbol": "CELO",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_CELO.png"
+        },
+        {
+            "name": "Wrapped Celo",
+            "address": "0x524d97A67f50F4A062C28c74F60703Aec9028a94",
+            "symbol": "WCELO",
+            "decimals": 18,
+            "chainId": 44787,
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_CELO.png"
+        },
+        {
             "name": "DexSwapZoo",
             "address": "0x64b8EaB670f580817b26023f376bb91E32501fE6",
             "symbol": "DEZU",
